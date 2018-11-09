@@ -9,7 +9,7 @@ The button which used to select blend parameters now simply switches the display
 
 [Firmwares modified by Boourns:](https://github.com/boourns/eurorack/releases/tag/monsoon_firmwares_v1)
 
-Google sheet BOM:
+[Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1LuCuwaJUoA0aQCVt2MxHURQ-PYTl8TTABjA8FtAyBB0/edit?usp=sharing)
 coming soon.
 
 
