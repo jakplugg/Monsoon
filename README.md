@@ -9,7 +9,7 @@ The slider LEDs are normal "one way" and only display positive CV input, if you 
 
 The button which used to select blend parameters now simply switches what the 4 LEDs display between audio input monitoring and monitoring the 4 blend amounts.
 
-[Stock clouds, Clouds Parasites, and Jkammerl beat repeat Firmwares modified for Monsoon by Boourns:](https://github.com/boourns/eurorack/releases/tag/monsoon_firmwares_v1)
+[Stock clouds, Clouds Parasites, and Jkammerl beat repeat Firmwares modified for Monsoon by Tom Burns:](https://github.com/boourns/eurorack/releases/tag/monsoon_firmwares_v1)
 
 [Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1LuCuwaJUoA0aQCVt2MxHURQ-PYTl8TTABjA8FtAyBB0/edit?usp=sharing)
 
