@@ -11,7 +11,7 @@ The button which used to select blend parameters now simply switches what the 4 
 
 [Stock clouds, Clouds Parasites, and Jkammerl beat repeat Firmwares modified for Monsoon by Tom Burns:](https://github.com/boourns/eurorack/releases/tag/monsoon_firmwares_v1)
 
-[Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1LuCuwaJUoA0aQCVt2MxHURQ-PYTl8TTABjA8FtAyBB0/edit?usp=sharing)
+[Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1RgaPN_YdO_VuwdeUBHkcrlwIOgGYM_RJl-FyqPO2IpU/edit?usp=sharing)
 
 JM.
 
